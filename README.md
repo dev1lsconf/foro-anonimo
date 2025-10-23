@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://0x0.st/K2KP.jpg" />
+<img width="1200" height="675" alt="GHBanner" src="https://0x0.st/K2KP.jpg" />
 </div>
 
 # Foro Anonimo 🪓
