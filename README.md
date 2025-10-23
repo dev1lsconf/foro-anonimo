@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.freepik.es/vector-gratis/misterioso-hombre-mafia-fumando-cigarrillo_7074311.htm#fromView=keyword&page=1&position=16&uuid=97c70803-d8a1-4d83-8cce-71bbdc235b54&query=Anonimato" />
+<img width="1200" height="475" alt="GHBanner" src="https://0x0.st/K2KP.jpg" />
 </div>
 
 # Foro Anonimo 🪓
